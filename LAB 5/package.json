@@ -1,0 +1,16 @@
+{
+  "name": "lab-5",
+  "version": "1.0.0",
+  "description": "LAB 5 CS 546",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ASHWIN SURESH 20005197",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "express": "^4.17.1"
+  }
+}
